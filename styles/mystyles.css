@@ -17,3 +17,16 @@ body {
 .bluetext {
     color: rgb(12, 12, 247)
 }
+
+.centered {
+    width: 100%;
+    text-align: center;
+}
+
+/* more overwrites */
+
+#mainNav {
+    background-color: rgba(44, 24, 18, 0.9);
+  }
+
+  
