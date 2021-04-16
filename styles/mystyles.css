@@ -9,3 +9,7 @@ body {
 .redtext {
     color: rgb(180, 23, 23);
 }
+
+.tabsize {
+    font-size: larger;
+}
