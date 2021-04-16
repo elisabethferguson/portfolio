@@ -1,3 +1,11 @@
 body {
     background-image: linear-gradient(rgba(47, 23, 15, 0.45), rgba(47, 23, 15, 0.45)), url("../images/efimage.jpeg");
 }
+
+.orangetext {
+    color: rgb(240, 162, 16);
+}
+
+.redtext {
+    color: rgb(180, 23, 23);
+}
