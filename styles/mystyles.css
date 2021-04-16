@@ -13,3 +13,7 @@ body {
 .tabsize {
     font-size: larger;
 }
+
+.bluetext {
+    color: rgb(12, 12, 247)
+}
