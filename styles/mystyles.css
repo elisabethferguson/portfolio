@@ -1,32 +1,42 @@
 body {
-    background-image: linear-gradient(rgba(47, 23, 15, 0.45), rgba(47, 23, 15, 0.45)), url("../images/efimage.jpeg");
+  background-image: linear-gradient(
+      rgba(47, 23, 15, 0.45),
+      rgba(47, 23, 15, 0.45)
+    ),
+    url("../images/efimage.jpeg");
 }
 
 .orangetext {
-    color: rgb(240, 162, 16);
+  color: rgb(240, 162, 16);
 }
 
 .redtext {
-    color: rgb(180, 23, 23);
+  color: rgb(180, 23, 23);
 }
 
 .tabsize {
-    font-size: larger;
+  font-size: larger;
 }
 
 .bluetext {
-    color: rgb(12, 12, 247)
+  color: rgb(12, 12, 247);
 }
 
 .centered {
-    width: 100%;
-    text-align: center;
+  width: 100%;
+  text-align: center;
 }
 
 /* more overwrites */
 
 #mainNav {
-    background-color: rgba(44, 24, 18, 0.9);
-  }
+  background-color: rgba(44, 24, 18, 0.9);
+}
 
-  
+.btn {
+  box-shadow: 1px 3px 3px 0px rgba(34, 37, 41, 0.1);
+}
+
+.btn-xl {
+  font-weight: 670;
+}
